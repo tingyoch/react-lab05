@@ -3,9 +3,20 @@ h1 {
   text-align: center;
 }
 
+button {
+  text-align: center;
+  margin: 0 auto;
+}
+
+img {
+  width: 350px;
+  height: auto;
+}
+
 #heading {
   text-align: center;
   background-color: cornflowerblue;
+  color: white;
 }
 
 #color-btn {
@@ -19,6 +30,7 @@ h1 {
   width: 600px;
   background-color: plum;
   float: left;
+  text-align: center;
   padding: 10px;
   border-radius: 25%;
   margin: 0 auto;
