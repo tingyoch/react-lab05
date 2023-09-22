@@ -14,7 +14,9 @@ root.render(
     </div>
 
     <div className="columns">
-      <button id="favorite-color">Favorite Color!</button>
+      <button id="color-btn" onclick="cornflowerblue">
+        Favorite Color!
+      </button>
 
       <h3>Favorite Website:</h3>
       <a href="https://www.youtube.com/">Youtube</a>
