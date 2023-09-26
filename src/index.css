@@ -26,7 +26,7 @@ img {
   border-radius: 25%;
 }
 
-#columns {
+.columns {
   width: 600px;
   background-color: plum;
   float: left;
